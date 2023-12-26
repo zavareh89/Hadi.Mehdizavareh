@@ -8,50 +8,47 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Hadi Mehdizavareh
+    tagline: PhD student in Computer Science/Machine Learning Researcher
+    avatar: 31216666.jfif  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    email: mhme@cs.aau.dk
+    #phone: 012 345 6789
+    #timezone: America/Cancun Timezone
+    #citizenship:
+    #website: blog.webjeda.com #do not add http://
+    linkedin: hadimehdizavareh
+    #xing: alandoe
+    github: zavareh89
+    #telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://github.com/zavareh89/Hadi.Mehdizavareh/blob/master/assets/CV_Hadi_Mehdizavareh_2023_05_13.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Persian
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: English
+          level: Professional (C1)
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Psychology
           link:
 
-        - item: Snowboarding
+        - item: Watching movies
           link:
 
-        - item: Cooking
+        - item: Walking
           link:
 
 career-profile:
