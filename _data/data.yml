@@ -4,8 +4,8 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Hadi Mehdizavareh
@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://github.com/zavareh89/Hadi.Mehdizavareh/blob/master/assets/CV_Hadi_Mehdizavareh_2023_05_13.pdf
+    pdf: https://github.com/zavareh89/Hadi.Mehdizavareh/blob/master/assets/CV_Hadi_Mehdizavareh_2023_05_13.pdf?raw=true
 
     languages:
       title: Languages
