@@ -52,39 +52,64 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am profoundly passionate about machine learning and data science. Regardless of the specific 
+      topic I am engaged in, I derive immense joy from manipulating data, extracting insights, and 
+      formulating innovative ideas or methodologies to address real-world challenges. My professional 
+      vision is to leverage my problem-solving skills to confront issues of global significance. 
+      Making a modest impact on such problems is tremendously valuable. 
+      This perspective motivated my choice of brain-computer interfaces (BCIs) as the focus of my 
+      master's thesis and my aspiration to establish my own company.
+
+      Over the past six years, I have immersed myself in various machine-learning subdomains, working 
+      with diverse datasets. These include predicting stock prices using time-series data, analyzing 
+      structured data, implementing speech recognition, processing images, analyzing medical images, 
+      developing recommendation systems, delving into EEG signal analysis and algorithms utilized in 
+      BCIs, and exploring learning-based hashing methods for approximate nearest neighbor search (ANN) tasks.
+
+      I am presently pursuing a PhD in Computer Science at Aalborg University under the guidance of Professor 
+      Arijit Khan. My research involves the analysis of electronic health record (EHR) data, with a focus on 
+      developing learning-based biomedical algorithms within intensive care unit (ICU) settings. The objective 
+      is to predict blood glucose levels for inpatients, aiming to assist clinicians in their decision-making 
+      processes and enhance the overall quality of life for patients.
+      
+publications:
+    title: Publications
+    papers:
+      - title: "M. H. Mehdizavareh, S. Hemati, and H. Soltanian-Zadeh, “Enhancing performance of subject-specific models 
+      via subject-independent information for SSVEP-based BCIs,” PLOS ONE, vol. 15, no. 1, X. Gao, Ed., e0226048, Jan. 2020."
+        link: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226048"
+
+      - title: "S. Hemati, M. H. Mehdizavareh, S. Chenouri, and H. R. Tizhoosh, “A non-alternating graph hashing algorithm 
+      for large-scale image search,” Computer Vision and Image Understanding, vol. 219, p. 103 415, 2022, ISSN: 1077-3142."
+        link: "https://www.sciencedirect.com/science/article/pii/S1077314222000418"
+
+      - title: "S. Hemati, M. H. Mehdizavareh, M. Babaie, S. Kalra, and H. Tizhoosh, “A simple supervised hashing algorithm 
+      using projected gradient and oppositional weights,” in 2021 IEEE International Conference on Image Processing (ICIP), 
+      2021, pp. 2748–2752."
+        link: "https://ieeexplore.ieee.org/document/9506441"
+
+      - title: "M. Kamarzarrin, S. Ehsan Hosseini, M. Hadi Mehdi Zavareh, and M. Kamarzarrin, “Designing and implementing of 
+      improved cryptographic algorithm using modular arithmetic theory,” Journal of Electrical Systems and Information Technology, 
+      vol. 2, no. 1, pp. 14–17, 2015, ISSN: 2314-7172."
+        link: "https://www.sciencedirect.com/science/article/pii/S2314717215000148"
+
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc in Biomedical/Bioelectric Engineering
+        university: University of Tehran
+        time: 2015 - 2018
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          I worked on EEG signal decoding algorithms and their usage in brain-computer interfaces (BCIs) 
+          for my master's thesis. The application I worked on was the speller BCI based on steady-state 
+          visual evoked potentials (SSVEPs).
+      - degree: BSc in Electrical/Electronics Engineering
+        university: Shahid Rajaei Teacher Training University
+        time: 2011 - 2015
+        #details: 
 
 experiences:
     title: Experiences
@@ -213,28 +238,6 @@ oss:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
