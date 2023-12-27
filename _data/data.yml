@@ -198,22 +198,22 @@ certifications:
 
 oss:
     title: Others
-    intro: >
+    contributions:
       - title: External reviewer for SIGMOD 2024
-        link: "#"
-        tagline: ""
+        #link: "#"
+        #tagline: ""
 
       - title: Reviewer for 2023 IEEE International Conference on Image Processing (ICIP 2023)
-        link: "#"
-        tagline: ""
+        #link: "#"
+        #tagline: ""
 
       - title: Member of Iranian Society of Biomedical Engineering Student Branch, University of Tehran [2016 – 2018]
-        link: "#"
-        tagline: ""
+        #link: "#"
+        #tagline: ""
 
       - title: Chief Editor of Biotech Magazine, University of Tehran [2017]
-        link: "#"
-        tagline: ""
+        #link: "#"
+        #tagline: ""
 
 skills:
     title: Skills &amp; Proficiency
