@@ -148,7 +148,7 @@ experiences:
           I completed several projects as a freelancer in the machine learning and signal processing fields. 
 
       - role: Teaching Assistant
-        time: 2020
+        time: 2017
         company: University of Tehran, Tehran, Iran
         details: |
             Digital Image Processing (Spring 2017) with Professor Hamid Soltanian Zadeh.
@@ -186,7 +186,7 @@ certifications:
           details: |
             Won the third prize (contested by 70 teams)
 
-        - name: Severstal: Steel Defect Detection Competition
+        - name: Severstal (Steel Defect Detection Competition)
           start: 2019
           end:
           organization: Kaggle
