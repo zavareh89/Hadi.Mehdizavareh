@@ -156,45 +156,44 @@ experiences:
             Speech Processing (Fall 2017) with Professor Reshad Hosseini.
 
 certifications:
-      title: Certifications
+      title: Awards and Achievements
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+        - name: Top 1% in nationwide graduate university entrance exam in electrical engineering, biomedical discipline
+          start: 2015
+          end: 
+          organization: 
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: 
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
+        - name: Stock price prediction competition in Iran
+          start: 2017
+          end:
+          organization: problem.ir
+          credentialid:
+          credentialurl: https://problem.ir/%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D9%87-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D9%BE%DB%8C%D8%B4%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%D9%87%D8%A7%D9%85/
+          credentialname: https://problem.ir/
+          details: |
+            Won the Third Great Prize (contested by 48 teams)
+
+        - name: The 2nd National Brain Computer Interface Competition
+          start: 2018
+          end:
+          organization: https://nbml.ir/
+          credentialid:
+          credentialurl: https://www.youtube.com/watch?v=YR_z8wFZl8U
+          details: |
+            Won the third prize (contested by 70 teams)
+
+        - name: Severstal: Steel Defect Detection Competition
           start: 2019
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: Kaggle
+          credentialid:
+          credentialurl:
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Bronze Medal - Top 7% (154/2435)
 
 oss:
     title: Others
