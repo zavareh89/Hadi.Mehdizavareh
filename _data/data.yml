@@ -158,7 +158,8 @@ experiences:
 certifications:
       title: Awards and Achievements
       list:
-        - name: Top 1% in nationwide graduate university entrance exam in electrical engineering, biomedical discipline
+        - name: Top 1% in nationwide graduate university entrance exam in 
+                electrical engineering
           start: 2015
           end: 
           organization: 
@@ -173,15 +174,16 @@ certifications:
           organization: problem.ir
           credentialid:
           credentialurl: https://problem.ir/%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D9%87-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D9%BE%DB%8C%D8%B4%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%D9%87%D8%A7%D9%85/
-          credentialname: https://problem.ir/
+          credentialname: Official report
           details: |
             Won the Third Great Prize (contested by 48 teams)
 
         - name: The 2nd National Brain Computer Interface Competition
           start: 2018
           end:
-          organization: https://nbml.ir/
+          organization: nbml.ir
           credentialid:
+          credentialname: Interview
           credentialurl: https://www.youtube.com/watch?v=YR_z8wFZl8U
           details: |
             Won the third prize (contested by 70 teams)
