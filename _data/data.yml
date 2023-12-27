@@ -37,7 +37,7 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Professional (C1)
+          level: Professional
 
     interests:
       title: Interests
@@ -114,43 +114,47 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Co-founder and Machine Learning Researcher, Tehran, Iran 
+        time: 2021 - 2022
+        company: Self-employed
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          My co-founder and I were building a social app for movie and TV recommendations. Some parts of the 
+          project were implemented. Unfortunately, it failed for many reasons :). During this journey, 
+          however, I learned many skills including but not limited to backend development, marketing techniques, 
+          how to work with APIs, and finding the simplest (and not necessarily the best) solutions. 
+          The most important lesson for me was the point that perfectionism is very dangerous and fatal for any startup.
+          My co-founder and I were building a social app for movie and TV recommendations. 
+          Some parts of the project were implemented. Unfortunately, it failed for many reasons :)
+          During this journey, however, I learned many skills including but not limited to backend development, 
+          marketing techniques, how to work with APIs, and finding the simplest (and not necessarily the best) 
+          solutions. The most important lesson for me was the point that perfectionism is very dangerous and 
+          fatal for any startup.
+
+      - role: Machine Learning Researcher (remote)
+        time: 2019 - 2021
+        company: KIMIA Lab (Laboratory for Knowledge Inference in Medical Image Analysis), Waterloo, Canada
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          I collaborated on developing and implementing hashing algorithms which can be used for the approximate 
+          nearest neighbor search (ANN) tasks such as large-scale image retrieval. Source code for Python implementation 
+          of some hashing algorithms are available in the following repositories:
+
+            https://github.com/zavareh89/unsupervised-hashing/
+            https://github.com/sobhanhemati/Efficient-Spectral-Hashing-ESH-
+
+      - role: Freelancer (AI and Machine Learning)
+        time: 2020
+        company: Self-employed
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          I completed several projects as a freelancer in the machine learning and signal processing fields. 
+
+      - role: Teaching Assistant
+        time: 2020
+        company: University of Tehran, Tehran, Iran
+        details: |
+          I 
+        • Digital Image Processing (Spring 2017) with Professor Hamid Soltanian Zadeh.
+        • Pattern Recognition (Fall 2017) with Professor Babak Nadjar Araabi.
+        • Speech Processing (Fall 2017) with Professor Reshad Hosseini.
 
 certifications:
       title: Certifications
@@ -193,51 +197,6 @@ certifications:
             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
             Praesent venenatis erat non augue suscipit consectetur.
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
     title: Skills &amp; Proficiency
@@ -246,19 +205,19 @@ skills:
       - name: Python & Django
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: SQL
+        level: 90%
+
+      - name: Machine Learning Frameworks and Libraries
         level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Mathematics, Statistics, Data Analysis
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Git
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Linux
         level: 60%
 
 footer: >
